@@ -6,8 +6,7 @@ class Solution {
         for(int i=0;i<stones.length;i++)
         {
                   for(int j=0;j<jewels.length;j++)
-        {
-          
+        {    
                     if(stones[i] == jewels[j])
                     {
                       times++;
